@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: com.phoenix.services.CalculaorServiceTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.002 s <<< FAILURE! - in com.phoenix.services.CalculaorServiceTest
+testAddition(com.phoenix.services.CalculaorServiceTest)  Time elapsed: 0.001 s  <<< FAILURE!
+java.lang.AssertionError: expected:<10> but was:<30>
+	at com.phoenix.services.CalculaorServiceTest.testAddition(CalculaorServiceTest.java:22)
+
